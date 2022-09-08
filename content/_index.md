@@ -1,7 +1,7 @@
 ---
 layout: blocks
 title: Homepage
-date: 2017-11-22 23:00:00 +0000
+date: 2017-11-22T23:00:00.000+00:00
 page_sections:
 - template: navigation-header-w-button
   block: header-2
@@ -52,6 +52,9 @@ page_sections:
   media:
     image: "/uploads/2018/06/21/edit.gif"
     alt_text: Customize Blocks
+  navigation:
+  - link_url: xxx
+    link_text: xxx
 - template: 1-column-text
   block: one-column-1
   headline: 16 Fully Responsive Design Blocks
